@@ -21,3 +21,10 @@ Day1과 Day2의 내용을 기초적인 출력문이라 생략하고 Day2의 문�
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Dat%203/%EB%AC%B8%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">문자 리스트를 문자열로 변환하기</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Dat%203/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B3%B1%ED%95%98%EA%B8%B0.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">문자열 곱하기</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Dat%203/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9E%EA%B8%B0.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">문자열 섞기</a>
+
+## Day 4
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%204/n%EC%9D%98%20%EB%B0%B0%EC%88%98.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">n의 배수</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%204/%EA%B3%B5%EB%B0%B0%EC%88%98.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">공배수</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%204/%ED%99%80%EC%A7%9D%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">홀짝에 따라 다른 값 반환하기</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%204/%EC%A1%B0%EA%B1%B4%20%EB%AC%B8%EC%9E%90%EC%97%B4.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">조건 문자열</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%204/flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EA%B0%92%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md#%EB%82%98%EC%9D%98-%ED%92%80%EC%9D%B4">flag에 따라 값 변환하기</a>
