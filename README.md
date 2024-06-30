@@ -20,7 +20,13 @@
 알고리즘 공부를 하면서 기본적으로 알아야 하는 함수나 라이브러리에 대해서 작성한 
 글입니다.
 ```
+
+### 📝 역량 키우기 rule
+1. n일차 문제를 풀기 전 전날 문제의 풀이를 한번 더 읽음으로써 한번더 인식해주세요
+2. 5일차 이후부터는 문제 풀이 과정을 상세히 작성해주세요.
+
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/readme.md#%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B0%EA%B8%B0">나의 역량 기르기(By 유찬)</a>
 
 ## Problem-Solving 정리
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/1%EC%A3%BC%EC%B0%A8#problem-solving-1%EC%A3%BC%EC%B0%A8">1주차 문제 풀이</a>
+- <a href="">2주차 문제 풀이</a>
