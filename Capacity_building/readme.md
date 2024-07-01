@@ -35,3 +35,10 @@ Day1과 Day2의 내용을 기초적인 출력문이라 생략하고 Day2의 문�
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%205/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%842.md#%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B2%8C%EC%9E%842">주사위 게임2</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%205/%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%20%EA%B3%B1%EA%B3%BC%20%ED%95%A9.md#%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98-%EA%B3%B1%EA%B3%BC-%ED%95%A9">원소들의 곱과 합</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%205/%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%9D%B8%20%EC%88%98.md#%EC%9D%B4%EC%96%B4-%EB%B6%99%EC%9D%B8-%EC%88%98">이어 붙인 수</a>
+
+## Day 6
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%91%90%20%EC%9B%90%EC%86%8C.md#%EB%A7%88%EC%A7%80%EB%A7%89-%EC%9B%90%EC%86%8C">마지막 두 원소</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%20%EC%A1%B0%EC%9E%91%20%ED%95%98%EA%B8%B0%201.md#%EC%88%98-%EC%A1%B0%EC%9E%91-%ED%95%98%EA%B8%B0-1">수 조작 하기1</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%20%EC%A1%B0%EC%9E%91%20%ED%95%98%EA%B8%B02.md#%EC%88%98-%EC%A1%B0%EC%9E%91-%ED%95%98%EA%B8%B0-2">수 조작 하기2</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%EC%97%B4%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC2.md#%EC%88%98%EC%97%B4-%EA%B5%AC%EA%B0%84-%EC%BF%BC%EB%A6%AC2">수열 구간 쿼리 3</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%EC%97%B4%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC3.md#%EC%88%98%EC%97%B4-%EA%B5%AC%EA%B0%84-%EC%BF%BC%EB%A6%AC3">수열 구간 쿼리 2</a>
