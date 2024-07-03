@@ -5,3 +5,4 @@
 
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/8%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">8일차 : 최소직사각형</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/9%EC%9D%BC%EC%B0%A8/readme.md">9일차 : 체육복</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/10%EC%9D%BC%EC%B0%A8">10일차 : 폰켓몬</a>
