@@ -7,3 +7,4 @@
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/9%EC%9D%BC%EC%B0%A8/readme.md">9일차 : 체육복</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/10%EC%9D%BC%EC%B0%A8">10일차 : 폰켓몬</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/11%EC%9D%BC%EC%B0%A8">11일차 : 같은 숫자는 싫어</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/2%EC%A3%BC%EC%B0%A8/12%EC%9D%BC%EC%B0%A8">12일차 : 숫자 문자열과 영단어</a>
