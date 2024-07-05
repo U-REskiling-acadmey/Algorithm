@@ -42,3 +42,12 @@ Day1과 Day2의 내용을 기초적인 출력문이라 생략하고 Day2의 문�
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%20%EC%A1%B0%EC%9E%91%20%ED%95%98%EA%B8%B02.md#%EC%88%98-%EC%A1%B0%EC%9E%91-%ED%95%98%EA%B8%B0-2">수 조작 하기2</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%EC%97%B4%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC2.md#%EC%88%98%EC%97%B4-%EA%B5%AC%EA%B0%84-%EC%BF%BC%EB%A6%AC2">수열 구간 쿼리 3</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%206/%EC%88%98%EC%97%B4%20%EA%B5%AC%EA%B0%84%20%EC%BF%BC%EB%A6%AC3.md#%EC%88%98%EC%97%B4-%EA%B5%AC%EA%B0%84-%EC%BF%BC%EB%A6%AC3">수열 구간 쿼리 2</a>
+
+## Day 7
+- <a href="">수열과 구간 쿼리 4</a>
+- <a href="">배열 만들기</a>
+- <a href="">카운트 업</a>
+- <a href="">수열과 구간 쿼리 4</a>
+- <a href="">수열과 구간 쿼리 4</a>
+
+## Day 8
