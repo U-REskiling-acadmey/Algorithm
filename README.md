@@ -26,6 +26,8 @@
 2. 5일차 이후부터는 문제 풀이 과정을 상세히 작성해주세요.
 
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/readme.md#%EC%97%AD%EB%9F%89-%ED%82%A4%EC%9A%B0%EA%B8%B0">나의 역량 기르기(By 유찬)</a>
+- <a href="">코딩 테스트 고득점 kit</a>
+- <a href="">SQL 역량 키우기</a>
 
 ## Problem-Solving 정리
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/1%EC%A3%BC%EC%B0%A8#problem-solving-1%EC%A3%BC%EC%B0%A8">1주차 문제 풀이</a>
