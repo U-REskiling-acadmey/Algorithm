@@ -3,9 +3,10 @@
 **📝 Rule**
 ```
 1. 문제 풀이 제한 시간은 30분이어야 합니다.
-2. 30분 안에 풀지 못한 문제는 :construction: gitmoji를 사용하여 보류로 둡니다.
-3. 보류로 둔 문제는 답을 찾아 본뒤 그 답에 대한 해설의 커밋을 올려야 됩니다.
-4. 보류 문제는 스스로 풀 수 있을 때까지 계속 보류 커밋으로 두어야 합니다. (매일 풀 수 있음)
+2. 30분 안에 풀지 못한 문제는 :construction: gitmoji를 사용하여 보류로 둡니다. 
+3. 본인이 중요하다고 생각한 문제에도 :construction:를 사용할 수 있습니다.
+4. 보류로 둔 문제는 답을 찾아 본뒤 그 답에 대한 해설의 커밋을 올려야 됩니다.
+5. 보류 문제는 스스로 풀 수 있을 때까지 계속 보류 커밋으로 두어야 합니다. (매일 풀 수 있음)
 ```
 
 - <a href="https://yuchan-log.notion.site/2e98b91899984c7c906f8ba9976f0783?pvs=4">코딩 테스틀 위해서 알아야 하는 자바의 기본적인 문법</a>
@@ -51,8 +52,15 @@ Day1과 Day2의 내용을 기초적인 출력문이라 생략하고 Day2의 문�
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%207/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md#%EB%B0%B0%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0">배열 만들기</a>
 
 ## Day 8 : 조건문 및 문자열
-- <a href="">간단한 논리 연산</a>
-- <a href="">주사위 게임 3</a>
-- <a href="">글자 이어 붙여 문자열 만들기</a>
-- <a href="">9로 나눈 나머지</a>
-- <a href="">문자열 여러 번 뒤집기</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%208/%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0.md">간단한 논리 연산</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%208/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203.md#%EC%A3%BC%EC%82%AC%EC%9C%84-%EA%B2%8C%EC%9E%84-3">주사위 게임 3</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%208/%EA%B8%80%EC%9E%90%20%EC%9D%B4%EC%96%B4%20%EB%B6%99%EC%97%AC%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md#%EA%B8%80%EC%9E%90-%EC%9D%B4%EC%96%B4-%EB%B6%99%EC%97%AC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0">글자 이어 붙여 문자열 만들기</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%208/9%EB%A1%9C%20%EB%82%98%EB%88%88%20%EB%82%98%EB%A8%B8%EC%A7%80.md#9%EB%A1%9C-%EB%82%98%EB%88%88-%EB%82%98%EB%A8%B8%EC%A7%80">9로 나눈 나머지</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/blob/main/Capacity_building/Day%208/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%AC%EB%9F%AC%EB%B2%88%20%EB%92%A4%EC%A7%91%EA%B8%B0.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%97%AC%EB%9F%AC%EB%B2%88-%EB%92%A4%EC%A7%91%EA%B8%B0">문자열 여러 번 뒤집기</a>
+
+## Day 9 : 문자열
+- <a href="">배열 만들기 5</a>
+- <a href="">부분 문자열 이어 붙여 문자열 만들기</a>
+- <a href="">문자열 뒤의 n글자</a>
+- <a href="">접미사 배열</a>
+- <a href="">접미사인지 확인하기</a>
