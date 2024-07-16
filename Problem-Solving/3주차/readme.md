@@ -6,3 +6,4 @@
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/3%EC%A3%BC%EC%B0%A8/15%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">15일차 : 삼총사</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/3%EC%A3%BC%EC%B0%A8/16%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">16일차 : 핸드폰 번호 가리기</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/3%EC%A3%BC%EC%B0%A8/17%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">17일차 : 소수 만들기</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/3%EC%A3%BC%EC%B0%A8/18%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">18일차 : 나머지가 1이 되는 수 찾기</a>
