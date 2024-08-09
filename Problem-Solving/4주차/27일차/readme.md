@@ -1,6 +1,6 @@
 ## 과일 장수
 
-[문제 출처](https://discord.com/channels/@me/819523978766188544/1271268990932746252)
+[문제 출처](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 
 ## 문제 설명
 과일 장수가 사과 상자를 포장하고 있습니다. 사과는 상태에 따라 1점부터 k점까지의 점수로 분류하며,  
