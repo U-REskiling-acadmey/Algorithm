@@ -75,5 +75,4 @@ class Solution {
         return (long) (max - min + 1) * (min + max) / 2;
     }
 }
-
 ```
