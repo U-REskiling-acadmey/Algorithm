@@ -9,3 +9,4 @@
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/4%EC%A3%BC%EC%B0%A8/25%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">25일차 : K번째수</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/4%EC%A3%BC%EC%B0%A8/26%EC%9D%BC%EC%B0%A8#%EB%AC%B8%EC%A0%9C-%EC%84%A4%EB%AA%85--%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95">26일차 : 두 개 뽑아서 더하기</a>
 - <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/4%EC%A3%BC%EC%B0%A8/27%EC%9D%BC%EC%B0%A8#%EA%B3%BC%EC%9D%BC-%EC%9E%A5%EC%88%98">27일차 : 과일 장수</a>
+- <a href="https://github.com/U-REskiling-acadmey/Algorithm/tree/main/Problem-Solving/4%EC%A3%BC%EC%B0%A8/28%EC%9D%BC%EC%B0%A8#%EA%B3%BC%EC%9D%BC-%EC%9E%A5%EC%88%98">28일차 : 약수의 개수와 덧샘</a>
