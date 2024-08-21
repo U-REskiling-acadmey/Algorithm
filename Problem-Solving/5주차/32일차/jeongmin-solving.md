@@ -2,17 +2,18 @@
 
 ```java
 class Solution {
-    public long solution(int price, int money, int count) {
-        long sum = 0;
-        for(int i=1; i<=count; i++){
-            sum += price*i;
+    public int solution(int n) {
+        String answer = "";
+
+        while (n != 0) {
+            answer += n%3;
+            n /= 3;
         }
-        return Math.max(0, sum - money);
+
+        return Integer.parseInt(answer, 3);
     }
 }
 ```
 
-놀이기구를 타는데 부족한 금액을 반환한다.
-
-1. for를 이용해 놀이기구 총 필요 금액을 구한다.
-2. Math.max로 0과 sum-money를 비교하여 큰 수를 구한다.(sum-money는 부족한 금액)
+1. answer += n%3를 하여 3진법으로 바꿔준다 (이러면 이미 뒤집어져있다)
+2. Integer.parseInt로 다시 10진법으로 바꾸어준다.
